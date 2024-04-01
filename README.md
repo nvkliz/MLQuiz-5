@@ -3,4 +3,4 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
- Fifth ML Quiz - UCL Programming for Business Analytics Resources
+ Fifth ML Quiz - UCL Programming for Business Analytics
